@@ -19,9 +19,19 @@
 
 ### Day 3: October 29, Thursday
 
-**Today's Progress**: 
+**Today's Progress**: Really got to know forms and their inputs using HTML.
 
-**Thoughts** 
+**Thoughts** I am getting better at using HTML. Starting to understand it much more. 
 
-**Link(s) to work**
+**Link(s) to work**: [Practice Responsive Web Design](https://codepen.io/SherreAhlers/pen/XWKEqdz)
+
+
+### Day 4: October 30, Friday
+
+**Today's Progress**: Spent more time on Responsive Design
+
+**Thoughts** I am starting enjoy Responsive Design.
+
+**Link(s) to work**: [Practice Responsive Web Design](https://codepen.io/SherreAhlers/pen/KKMoQoG)
+
 
