@@ -35,3 +35,26 @@
 **Link(s) to work**: [Practice Responsive Web Design](https://codepen.io/SherreAhlers/pen/KKMoQoG)
 
 
+### Day 5: November 2, Monday
+
+**Today's Progress**: Started a refresher course on JavaScript.
+
+**Thoughts** I struggle with certain applications of JavaScript, looking forward to overcoming those challenges.
+
+**Link(s) to work**: [Practice JavaScript](https://www.freecodecamp.org/learn/front-end-libraries/bootstrap/)
+
+
+### Day 6: November 3, Tuesday
+
+**Today's Progress**: Continuing with a refresher course on JavaScript.
+
+**Thoughts** I struggle with certain applications of JavaScript, looking forward to overcoming those challenges.
+
+**Link(s) to work**: [Practice JavaScript](https://www.freecodecamp.org/learn/front-end-libraries/jquery/)
+
+
+
+
+
+
+
