@@ -53,7 +53,31 @@
 **Link(s) to work**: [Practice JavaScript](https://www.freecodecamp.org/learn/front-end-libraries/jquery/)
 
 
+### Day 7: November 4, Wednesday
 
+**Today's Progress**: Continuing with a refresher course on JavaScript.
+
+**Thoughts** I struggle with certain applications of JavaScript, looking forward to overcoming those challenges.
+
+**Link(s) to work**: [Practice JavaScript](https://www.freecodecamp.org/learn/front-end-libraries/react)
+
+
+### Day 8: November 5, Thursday
+
+**Today's Progress**: Continuing with a refresher course on JavaScript.
+
+**Thoughts** I struggle with certain applications of JavaScript, looking forward to overcoming those challenges.
+
+**Link(s) to work**: [Practice JavaScript](https://www.freecodecamp.org/learn/front-end-libraries/react/create-a-simple-jsx-element)
+
+
+### Day 9: November 6, Friday
+
+**Today's Progress**: Continuing with a refresher course on JavaScript.
+
+**Thoughts** I struggle with certain applications of JavaScript, looking forward to overcoming those challenges.
+
+**Link(s) to work**: [Practice JavaScript]()
 
 
 
