@@ -77,8 +77,15 @@
 
 **Thoughts** I struggle with certain applications of JavaScript, looking forward to overcoming those challenges.
 
+**Link(s) to work**: [Practice JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/constructing-strings-with-variables)
+
+
+### Day 10: November 9, Monday
+
+**Today's Progress**: Continuing with a refresher course on JavaScript.
+
+**Thoughts** I struggle with certain applications of JavaScript, looking forward to overcoming those challenges.
+
 **Link(s) to work**: [Practice JavaScript]()
-
-
 
 
