@@ -86,6 +86,45 @@
 
 **Thoughts** I struggle with certain applications of JavaScript, looking forward to overcoming those challenges.
 
+**Link(s) to work**: [Practice JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+
+
+
+### Day 11: November 10, Tuesday
+
+**Today's Progress**: Working on a webpage for friend's business.
+
+**Thoughts** I plan to use HTML, CSS, JavaScript and Bootstrap.
+
+**Link(s) to work**: [Build Website](No link as website is not active yet.)
+
+
+### Day 12: November 11, Wednesday
+
+**Today's Progress**: Continuing working on a webpage for friend's business.
+
+**Thoughts** I plan to use HTML, CSS, JavaScript and Bootstrap.
+
+**Link(s) to work**: [Build Website](No link as website is not active yet.)
+
+
+### Day 13: November 12, Thursday
+
+**Today's Progress**: Continuing working on a webpage for friend's business.
+
+**Thoughts** I plan to use HTML, CSS, JavaScript and Bootstrap.
+
+**Link(s) to work**: [Build Website](No link as website is not active yet.)
+
+
+### Day 13: November 16, Monday
+
+**Today's Progress**: Continuing working on a webpage for friend's business and practicing JavaScript.
+
+**Thoughts** I plan to use HTML, CSS, JavaScript and Bootstrap.
+
 **Link(s) to work**: [Practice JavaScript]()
+
+
 
 
