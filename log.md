@@ -117,14 +117,29 @@
 **Link(s) to work**: [Build Website](No link as website is not active yet.)
 
 
-### Day 13: November 16, Monday
+### Day 14: November 16, Monday
 
 **Today's Progress**: Continuing working on a webpage for friend's business and practicing JavaScript.
 
 **Thoughts** I plan to use HTML, CSS, JavaScript and Bootstrap.
 
+**Link(s) to work**: [Practice JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+
+
+### Day 15: November 17, Tuesday
+
+**Today's Progress**: Continuing working on a webpage for friend's business and practicing JavaScript.
+
+**Thoughts** I plan to use HTML, CSS, JavaScript and Bootstrap for the website.
+
+**Link(s) to work**: [Practice JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Math)
+
+
+### Day 16: November 18, Wednesday
+
+**Today's Progress**: Continuing working on a webpage for friend's business and practicing JavaScript.
+
+**Thoughts** I plan to use HTML, CSS, JavaScript and Bootstrap for the website.
+
 **Link(s) to work**: [Practice JavaScript]()
-
-
-
 
