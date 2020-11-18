@@ -141,5 +141,5 @@
 
 **Thoughts** I plan to use HTML, CSS, JavaScript and Bootstrap for the website.
 
-**Link(s) to work**: [Practice JavaScript]()
+**Link(s) to work**: [Practice JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Silly_story_generator)
 
