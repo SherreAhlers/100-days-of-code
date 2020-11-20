@@ -143,3 +143,22 @@
 
 **Link(s) to work**: [Practice JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Silly_story_generator)
 
+
+
+### Day 17: November 19, Thursday
+
+**Today's Progress**: Continuing working on a webpage for friend's business and practicing JavaScript.
+
+**Thoughts** I plan to use HTML, CSS, JavaScript and Bootstrap for the website.
+
+**Link(s) to work**: [Practice JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#Operator_precedence)
+
+
+
+### Day 18: November 20, Friday
+
+**Today's Progress**: Practicing JavaScript.
+
+**Thoughts** Practice JS code challenges
+
+**Link(s) to work**: [Practice JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/toString)
