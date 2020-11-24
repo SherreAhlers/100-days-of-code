@@ -162,3 +162,30 @@
 **Thoughts** Practice JS code challenges
 
 **Link(s) to work**: [Practice JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/toString)
+
+
+### Day 19: November 23, Monday
+
+**Today's Progress**: Practicing JavaScript.
+
+**Thoughts** Practice JS code challenges
+
+**Link(s) to work**: [Practice JavaScript](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648209#overview)
+
+
+### Day 20: November 24, Tuesday
+
+**Today's Progress**: Practicing JavaScript.
+
+**Thoughts** Practice JS code challenges
+
+**Link(s) to work**: [Practice JavaScript](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648209#overview)
+
+
+### Day 21: November 25, Wednesday
+
+**Today's Progress**: Practicing JavaScript.
+
+**Thoughts** Practice JS code challenges
+
+**Link(s) to work**: [Practice JavaScript]()
