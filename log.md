@@ -198,3 +198,23 @@
 **Thoughts** Practice JS code challenges
 
 **Link(s) to work**: [Practice JavaScript](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648215#overview)
+
+
+### Day 23: November 28, Friday
+
+**Today's Progress**: Practicing JavaScript.
+
+**Thoughts** Practice JS code challenges
+
+**Link(s) to work**: [Practice JavaScript](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648271#announcements)
+
+
+### Day 24: November 30, Monday
+
+**Today's Progress**: Practicing JavaScript.
+
+**Thoughts** Practice JS code challenges
+
+**Link(s) to work**: [Practice JavaScript]()
+
+
