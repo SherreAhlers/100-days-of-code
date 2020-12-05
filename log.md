@@ -222,7 +222,7 @@
 
 **Thoughts** Practice JS code challenges
 
-**Link(s) to work**: [Practice JavaScript]()
+**Link(s) to work**: [Practice JavaScript](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648519#questions)
 
 ### Day 27: December 7, Monday
 
