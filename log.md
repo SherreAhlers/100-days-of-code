@@ -208,7 +208,7 @@
 
 **Link(s) to work**: [Practice JavaScript](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648437#questions)
 
-### Day 27: December 4, Thursday
+### Day 27: December 3, Thursday
 
 **Today's Progress**: Practicing JavaScript.
 
@@ -216,7 +216,23 @@
 
 **Link(s) to work**: [Practice JavaScript](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648481#notes)
 
-### Day 27: December 5, Friday
+### Day 27: December 4, Friday
+
+**Today's Progress**: Practicing JavaScript.
+
+**Thoughts** Practice JS code challenges
+
+**Link(s) to work**: [Practice JavaScript](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648519#questions)
+
+### Day 27: December 5, Saturday
+
+**Today's Progress**: Practicing JavaScript.
+
+**Thoughts** Practice JS code challenges
+
+**Link(s) to work**: [Practice JavaScript](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648509#questions)
+
+### Day 27: December 6, Sunday
 
 **Today's Progress**: Practicing JavaScript.
 
@@ -225,6 +241,14 @@
 **Link(s) to work**: [Practice JavaScript](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648519#questions)
 
 ### Day 27: December 7, Monday
+
+**Today's Progress**: Practicing JavaScript.
+
+**Thoughts** Practice JS code challenges
+
+**Link(s) to work**: [Practice JavaScript](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648597#questions)
+
+### Day 27: December 8, Tuesday
 
 **Today's Progress**: Practicing JavaScript.
 
