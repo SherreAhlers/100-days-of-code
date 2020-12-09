@@ -255,3 +255,11 @@
 **Thoughts** Building website using HTML, CSS, JavaScript
 
 **Link(s) to work**: [Practice JavaScript](no site available yet...)
+
+### Day 33: December 9, Wednesday
+
+**Today's Progress**: Beginning classes on Java
+
+**Thoughts** Learning Java
+
+**Link(s) to work**: [Learn Java](https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/15386014#overview)
