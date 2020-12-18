@@ -263,3 +263,75 @@
 **Thoughts** Learning Java
 
 **Link(s) to work**: [Learn Java](https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/15386014#overview)
+
+### Day 34: December 10, Thursday
+
+**Today's Progress**: Beginning classes on Java
+
+**Thoughts** Learning Java
+
+**Link(s) to work**: [Learn Java](https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/15561384#questions/13450778)
+
+### Day 35: December 11, Friday
+
+**Today's Progress**: Beginning classes on Java
+
+**Thoughts** Learning Java
+
+**Link(s) to work**: [Learn Java](https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/3133056#questions/13450778)
+
+### Day 36: December 12, Saturday
+
+**Today's Progress**: Beginning classes on Java
+
+**Thoughts** Learning Java
+
+**Link(s) to work**: [Learn Java](https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/10225902#questions/13450778)
+
+### Day 37: December 13, Sunday
+
+**Today's Progress**: Beginning classes on Java
+
+**Thoughts** Learning Java
+
+**Link(s) to work**: [Learn Java](https://www.udemy.com/course/java-the-complete-java-developer-course/learn/quiz/4441894#questions/13450778)
+
+### Day 38: December 14, Monday
+
+**Today's Progress**: Beginning classes on Java
+
+**Thoughts** Learning Java
+
+**Link(s) to work**: [Learn Java](https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/10261244#questions/13450778)
+
+### Day 39: December 15, Tuesday
+
+**Today's Progress**: Beginning classes on Java
+
+**Thoughts** Learning Java
+
+**Link(s) to work**: [Learn Java](https://www.udemy.com/course/java-the-complete-java-developer-course/learn/quiz/4448806#questions/13450778)
+
+### Day 40: December 16, Wednesday
+
+**Today's Progress**: Beginning classes on Java
+
+**Thoughts** Learning Java
+
+**Link(s) to work**: [Learn Java](https://www.udemy.com/course/java-the-complete-java-developer-course/learn/quiz/4427062#questions/13450778)
+
+### Day 41: December 17, Thursday
+
+**Today's Progress**: Beginning classes on Java
+
+**Thoughts** Learning Java
+
+**Link(s) to work**: [Learn Java](https://www.udemy.com/course/java-the-complete-java-developer-course/learn/quiz/4427380#questions/13450778)
+
+### Day 42: December 18, Friday
+
+**Today's Progress**: Beginning classes on Java
+
+**Thoughts** Learning Java
+
+**Link(s) to work**: [Learn Java](https://www.udemy.com/course/java-the-complete-java-developer-course/learn/quiz/4585910#questions/13450778)
