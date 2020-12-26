@@ -366,7 +366,7 @@
 
 **Thoughts** Learning Java
 
-**Link(s) to work**: [Learn Java]()
+**Link(s) to work**: [Learn Java](https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/3577144#questions/13514298)
 
 ### Day 47: December 23, Wednesday
 
@@ -374,7 +374,7 @@
 
 **Thoughts** Learning Java
 
-**Link(s) to work**: [Learn Java]()
+**Link(s) to work**: [Learn Java](https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/3646052#questions/13514298)
 
 ### Day 48: December 24, Thursday
 
@@ -382,17 +382,9 @@
 
 **Thoughts** Learning Java
 
-**Link(s) to work**: [Learn Java]()
+**Link(s) to work**: [Learn Java](https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/3666008#questions/13514298)
 
-### Day 49: December 25, Friday
-
-**Today's Progress**: Beginning classes on Java
-
-**Thoughts** Learning Java
-
-**Link(s) to work**: [Learn Java]()
-
-### Day 50 (half-way point): December 26, Saturday
+### Day 50 (half-way point): December 27, Sunday
 
 **Today's Progress**: Beginning classes on Java
 
