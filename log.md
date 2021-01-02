@@ -384,10 +384,74 @@
 
 **Link(s) to work**: [Learn Java](https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/3666008#questions/13514298)
 
+### Day 49: December 26, Saturday
+
+**Today's Progress**: Beginning classes on Java
+
+**Thoughts** Learning Java
+
+**Link(s) to work**: [Learn Java](https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/3705710#questions/13514298)
+
 ### Day 50 (half-way point): December 27, Sunday
 
 **Today's Progress**: Beginning classes on Java
 
 **Thoughts** Learning Java
 
-**Link(s) to work**: [Learn Java]()
+**Link(s) to work**: [Learn Java](https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/3909250#questions)
+
+### Day 51: December 28, Monday
+
+**Today's Progress**: Beginning classes on Java
+
+**Thoughts** Learning Java
+
+**Link(s) to work**: [Learn Java](https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/3993754#questions)
+
+### Day 51: December 29, Tuesday
+
+**Today's Progress**: Beginning classes on Java
+
+**Thoughts** Learning Java
+
+**Link(s) to work**: [Learn Java](https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/4052730#questions)
+
+### Day 53: December 30, Wednesday
+
+**Today's Progress**: Beginning classes on Java
+
+**Thoughts** Learning Java
+
+**Link(s) to work**: [Learn Java](https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/4052740#questions)
+
+### Day 54: December 31, Thursday
+
+**Today's Progress**: Beginning classes on Java
+
+**Thoughts** Learning Java
+
+**Link(s) to work**: [Learn Java](https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/4111654#questions)
+
+### Day 55: January 1, Friday
+
+**Today's Progress**: Beginning classes on Java
+
+**Thoughts** Learning Java
+
+**Link(s) to work**: [Learn Java](https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/4152148#questions)
+
+### Day 55: January 2, Saturday
+
+**Today's Progress**: Working on friend's website
+
+**Thoughts** Learning Java
+
+**Link(s) to work**: [Learn Java](https://github.com/SherreAhlers/S.A.V.A.N.T.-Technologies)
+
+### Day 55: January 3, Sunday
+
+**Today's Progress**: Beginning classes on Java
+
+**Thoughts** Learning Java
+
+**Link(s) to work**: [Learn Java](https://github.com/SherreAhlers/S.A.V.A.N.T.-Technologies)
