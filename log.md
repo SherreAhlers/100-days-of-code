@@ -440,18 +440,42 @@
 
 **Link(s) to work**: [Learn Java](https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/4152148#questions)
 
-### Day 55: January 2, Saturday
+### Day 56: January 2, Saturday
 
 **Today's Progress**: Working on friend's website
 
 **Thoughts** Learning Java
 
-**Link(s) to work**: [Learn Java](https://github.com/SherreAhlers/S.A.V.A.N.T.-Technologies)
+**Link(s) to work**: [Work on website](https://github.com/SherreAhlers/S.A.V.A.N.T.-Technologies)
 
-### Day 55: January 3, Sunday
+### Day 57: January 3, Sunday
 
 **Today's Progress**: Beginning classes on Java
 
 **Thoughts** Learning Java
 
-**Link(s) to work**: [Learn Java](https://github.com/SherreAhlers/S.A.V.A.N.T.-Technologies)
+**Link(s) to work**: [Practice JavaScript](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648687#overview)
+
+### Day 58: January 4, Monday
+
+**Today's Progress**: Continue JavaScript class
+
+**Thoughts** Learning Java
+
+**Link(s) to work**: [Practice JavaScript](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648703#overview)
+
+### Day 59: January 5, Tuesday
+
+**Today's Progress**: Continue JavaScript class
+
+**Thoughts** Learning Java
+
+**Link(s) to work**: [Practice JavaScript](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648719#overview)
+
+### Day 60: January 6, Wednesday
+
+**Today's Progress**: Continue JavaScript class
+
+**Thoughts** Learning Java
+
+**Link(s) to work**: [Practice JavaScript]()
