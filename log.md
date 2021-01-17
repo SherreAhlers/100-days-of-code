@@ -266,7 +266,7 @@
 
 ### Day 34: December 10, Thursday
 
-**Today's Progress**: Beginning classes on Java
+**Today's Progress**: Classes on Java
 
 **Thoughts** Learning Java
 
@@ -274,7 +274,7 @@
 
 ### Day 35: December 11, Friday
 
-**Today's Progress**: Beginning classes on Java
+**Today's Progress**: Classes on Java
 
 **Thoughts** Learning Java
 
@@ -282,7 +282,7 @@
 
 ### Day 36: December 12, Saturday
 
-**Today's Progress**: Beginning classes on Java
+**Today's Progress**: Classes on Java
 
 **Thoughts** Learning Java
 
@@ -290,7 +290,7 @@
 
 ### Day 37: December 13, Sunday
 
-**Today's Progress**: Beginning classes on Java
+**Today's Progress**: Classes on Java
 
 **Thoughts** Learning Java
 
@@ -298,7 +298,7 @@
 
 ### Day 38: December 14, Monday
 
-**Today's Progress**: Beginning classes on Java
+**Today's Progress**: Classes on Java
 
 **Thoughts** Learning Java
 
@@ -306,7 +306,7 @@
 
 ### Day 39: December 15, Tuesday
 
-**Today's Progress**: Beginning classes on Java
+**Today's Progress**: Classes on Java
 
 **Thoughts** Learning Java
 
@@ -314,7 +314,7 @@
 
 ### Day 40: December 16, Wednesday
 
-**Today's Progress**: Beginning classes on Java
+**Today's Progress**: Classes on Java
 
 **Thoughts** Learning Java
 
@@ -322,7 +322,7 @@
 
 ### Day 41: December 17, Thursday
 
-**Today's Progress**: Beginning classes on Java
+**Today's Progress**: Classes on Java
 
 **Thoughts** Learning Java
 
@@ -330,7 +330,7 @@
 
 ### Day 42: December 18, Friday
 
-**Today's Progress**: Beginning classes on Java
+**Today's Progress**: Classes on Java
 
 **Thoughts** Learning Java
 
@@ -338,7 +338,7 @@
 
 ### Day 43: December 19, Saturday
 
-**Today's Progress**: Beginning classes on Java
+**Today's Progress**: Classes on Java
 
 **Thoughts** Learning Java
 
@@ -346,7 +346,7 @@
 
 ### Day 44: December 20, Sunday
 
-**Today's Progress**: Beginning classes on Java
+**Today's Progress**: Classes on Java
 
 **Thoughts** Learning Java
 
@@ -354,7 +354,7 @@
 
 ### Day 45: December 21, Monday
 
-**Today's Progress**: Beginning classes on Java
+**Today's Progress**: Classes on Java
 
 **Thoughts** Learning Java
 
@@ -362,7 +362,7 @@
 
 ### Day 46: December 22, Tuesday
 
-**Today's Progress**: Beginning classes on Java
+**Today's Progress**: Classes on Java
 
 **Thoughts** Learning Java
 
@@ -370,7 +370,7 @@
 
 ### Day 47: December 23, Wednesday
 
-**Today's Progress**: Beginning classes on Java
+**Today's Progress**: Classes on Java
 
 **Thoughts** Learning Java
 
@@ -378,7 +378,7 @@
 
 ### Day 48: December 24, Thursday
 
-**Today's Progress**: Beginning classes on Java
+**Today's Progress**: Classes on Java
 
 **Thoughts** Learning Java
 
@@ -386,7 +386,7 @@
 
 ### Day 49: December 26, Saturday
 
-**Today's Progress**: Beginning classes on Java
+**Today's Progress**: Classes on Java
 
 **Thoughts** Learning Java
 
@@ -394,7 +394,7 @@
 
 ### Day 50 (half-way point): December 27, Sunday
 
-**Today's Progress**: Beginning classes on Java
+**Today's Progress**: Classes on Java
 
 **Thoughts** Learning Java
 
@@ -402,7 +402,7 @@
 
 ### Day 51: December 28, Monday
 
-**Today's Progress**: Beginning classes on Java
+**Today's Progress**: Classes on Java
 
 **Thoughts** Learning Java
 
@@ -410,7 +410,7 @@
 
 ### Day 51: December 29, Tuesday
 
-**Today's Progress**: Beginning classes on Java
+**Today's Progress**: Classes on Java
 
 **Thoughts** Learning Java
 
@@ -418,7 +418,7 @@
 
 ### Day 53: December 30, Wednesday
 
-**Today's Progress**: Beginning classes on Java
+**Today's Progress**: Classes on Java
 
 **Thoughts** Learning Java
 
@@ -426,7 +426,7 @@
 
 ### Day 54: December 31, Thursday
 
-**Today's Progress**: Beginning classes on Java
+**Today's Progress**: Classes on Java
 
 **Thoughts** Learning Java
 
@@ -444,7 +444,7 @@
 
 **Today's Progress**: Working on friend's website
 
-**Thoughts** Learning Java
+**Thoughts** Use HTML, CSS & JavaScript>
 
 **Link(s) to work**: [Work on website](https://github.com/SherreAhlers/S.A.V.A.N.T.-Technologies)
 
@@ -460,7 +460,7 @@
 
 **Today's Progress**: Continue JavaScript class
 
-**Thoughts** Learning Java
+**Thoughts** Learning JavaScript
 
 **Link(s) to work**: [Practice JavaScript](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648703#overview)
 
@@ -468,7 +468,7 @@
 
 **Today's Progress**: Continue JavaScript class
 
-**Thoughts** Learning Java
+**Thoughts** Learning JavaScript
 
 **Link(s) to work**: [Practice JavaScript](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648719#overview)
 
@@ -476,6 +476,62 @@
 
 **Today's Progress**: Continue JavaScript class
 
-**Thoughts** Learning Java
+**Thoughts** Learning JavaScript
 
-**Link(s) to work**: [Practice JavaScript]()
+**Link(s) to work**: [Practice JavaScript](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648727#overview)
+
+### Day 61: January 7, Thursday
+
+**Today's Progress**: Continue JavaScript class
+
+**Thoughts** Learning JavaScript
+
+**Link(s) to work**: [Practice JavaScript](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648751#overview)
+
+### Day 62: January 8, Friday
+
+**Today's Progress**: Continue JavaScript class
+
+**Thoughts** Learning JavaScript
+
+**Link(s) to work**: [Practice JavaScript](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648769#overview)
+
+### Day 63: January 11, Monday
+
+**Today's Progress**: Continue JavaScript class
+
+**Thoughts** Learning JavaScript
+
+**Link(s) to work**: [Practice JavaScript](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648779#overview)
+
+### Day 64: January 12, Tuesday
+
+**Today's Progress**: Continue JavaScript class
+
+**Thoughts** Learning JavaScript
+
+**Link(s) to work**: [Practice JavaScript](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648793#overview)
+
+### Day 65: January 15, Friday
+
+**Today's Progress**: Continue JavaScript class
+
+**Thoughts** Learning JavaScript
+
+**Link(s) to work**: [Practice JavaScript](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648873#overview)
+
+### Day 65: January 16, Saturday
+
+**Today's Progress**: Worked on Group Project - platform
+
+**Thoughts** Using React.js
+
+**Link(s) to work**: [Build React Website for team project]()
+
+### Day 65: January 16, Saturday
+
+**Today's Progress**: Worked on Group Project - platform
+
+**Thoughts** Using React.js
+
+**Link(s) to work**: [Build React Website for team project]()
