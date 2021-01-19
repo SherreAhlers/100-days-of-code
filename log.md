@@ -530,8 +530,26 @@
 
 ### Day 67: January 17, Sunday
 
-**Today's Progress**: Worked on Group Project - platform
+**Today's Progress**: Worked on Group Project - platform and JavaScript class
 
-**Thoughts** Using React.js
+**Thoughts** Using React.js / JavaScript
 
-**Link(s) to work**: [Build React Website for team project]()
+**Link(s) to work**: [Build React Website for team project/ Javascript](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648885#overview)
+
+### Day 68: January 18, Monday
+
+**Today's Progress**: Worked on Group Project - platform and JavaScript class
+
+**Thoughts** Using React.js / JavaScript
+
+**Link(s) to work**: [Build React Website for team project/ Javascript](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648885#overview)
+
+### Day 69: January 19, Tuesday
+
+**Today's Progress**: Worked on Group Project - platform and JavaScript class
+
+**Thoughts** Using React.js / JavaScript
+
+**Link(s) to work**: [Build React Website for team project/ Javascript](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648885#overview)
+
+
