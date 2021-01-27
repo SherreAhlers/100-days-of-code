@@ -552,4 +552,50 @@
 
 **Link(s) to work**: [Build React Website for team project/ Javascript](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648885#overview)
 
+### Day 70: January 20, Wednesday
 
+**Today's Progress**: Worked on Group Project - platform and JavaScript class
+
+**Thoughts** Using React.js / JavaScript
+
+**Link(s) to work**: [Build React Website for team project/ Javascript](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648935#overview)
+
+### Day 71: January 21, Thursday
+
+**Today's Progress**: Worked on Group Project - platform and JavaScript class
+
+**Thoughts** Using React.js / JavaScript
+
+**Link(s) to work**: [Build React Website for team project/ Javascript](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648947#overview)
+
+### Day 72: January 22, Friday
+
+**Today's Progress**: Worked on Group Project - platform and JavaScript class
+
+**Thoughts** Using React.js / JavaScript
+
+**Link(s) to work**: [Build React Website for team project/ Javascript](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648961#overview)
+
+### Day 73: January 25, Monday
+
+**Today's Progress**: Worked on Group Project - platform and JavaScript class
+
+**Thoughts** Using React.js / JavaScript
+
+**Link(s) to work**: [Build React Website for team project/ Javascript](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648987#overview)
+
+### Day 74: January 26, Tuesday
+
+**Today's Progress**: Worked on Group Project - platform and JavaScript class
+
+**Thoughts** Using React.js / JavaScript
+
+**Link(s) to work**: [Build React Website for team project/ Javascript](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648993#overview)
+
+### Day 73: January 27, Wednesday
+
+**Today's Progress**: Worked on Group Project - platform and JavaScript class
+
+**Thoughts** Using React.js / JavaScript
+
+**Link(s) to work**: [Build React Website for team project/ Javascript](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648999#overview)
