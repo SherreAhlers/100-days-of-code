@@ -743,3 +743,59 @@
 **Thoughts** Using React.js / JavaScript
 
 **Link(s) to work**: [Build React Website for team project/ Javascript](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22649351#questions)
+
+### Day 94: February 23, Tuesday
+
+**Today's Progress**: Worked on Group Project - platform and JavaScript class
+
+**Thoughts** Using React.js / JavaScript
+
+**Link(s) to work**: [Build React Website for team project/ Javascript](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22649535#questions)
+
+### Day 95: February 24, Wednesday
+
+**Today's Progress**: Worked on Group Project - platform and JavaScript class
+
+**Thoughts** Using React.js / JavaScript
+
+**Link(s) to work**: [Build React Website for team project/ Javascript](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22649549#questions)
+
+### Day 96: February 25, Thursday
+
+**Today's Progress**: Worked on Group Project - platform and JavaScript class
+
+**Thoughts** Using React.js / JavaScript
+
+**Link(s) to work**: [Build React Website for team project/ Javascript](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22649559#questions)
+
+### Day 97: February 26, Friday
+
+**Today's Progress**: Worked on Group Project - platform and JavaScript class
+
+**Thoughts** Using React.js / JavaScript
+
+**Link(s) to work**: [Build React Website for team project/ Javascript](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22649567#questions)
+
+### Day 98: February 27, Saturday
+
+**Today's Progress**: Worked on Group Project - platform and JavaScript class
+
+**Thoughts** Using React.js / JavaScript
+
+**Link(s) to work**: [Build React Website for team project/ Javascript](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22649573#questions)
+
+### Day 99: February 28, Sunday
+
+**Today's Progress**: Worked on Group Project - platform and JavaScript class
+
+**Thoughts** Using React.js / JavaScript
+
+**Link(s) to work**: [Build React Website for team project/ Javascript]()
+
+### Day 100: March 1, Monday
+
+**Today's Progress**: Worked on Group Project - platform and JavaScript class
+
+**Thoughts** Using React.js / JavaScript
+
+**Link(s) to work**: [Build React Website for team project/ Javascript]()
